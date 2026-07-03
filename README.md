@@ -7,16 +7,27 @@ The project involved acquiring a real-world laptop dataset from Kaggle, followed
 Built, trained, and compared multiple regression models to determine the most effective prediction approach, including:
 
 • Linear Regression
+
 • Ridge Regression
+
 • Lasso Regression
+
 • K-Nearest Neighbors (KNN) Regressor
+
 • Decision Tree Regressor
+
 • Support Vector Regressor (SVR)
+
 • Random Forest Regressor
+
 • AdaBoost Regressor
+
 • Gradient Boosting Regressor
+
 • XGBoost Regressor
+
 • Voting Regressor
+
 • Stacking Regressor
 
 Assessed model performance using standard regression evaluation metrics and selected the optimal model, achieving an R² Score of 0.8745 , indicating high predictive performance and dependable laptop price estimation.
